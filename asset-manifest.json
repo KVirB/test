@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/test/static/css/main.dd2f7cd8.css",
-    "main.js": "/test/static/js/main.a3cff69a.js",
-    "index.html": "/test/index.html",
-    "main.dd2f7cd8.css.map": "/test/static/css/main.dd2f7cd8.css.map",
-    "main.a3cff69a.js.map": "/test/static/js/main.a3cff69a.js.map"
+    "main.css": "/test/main/static/css/main.21979978.css",
+    "main.js": "/test/main/static/js/main.8878c4a5.js",
+    "static/media/ric.svg": "/test/main/static/media/ric.26e3f4988ba1b57faebf268f5c8074ed.svg",
+    "static/media/ric_and_mortie.svg": "/test/main/static/media/ric_and_mortie.ff265ed500820cedaef154fc42c30c13.svg",
+    "static/media/rick-characters.svg": "/test/main/static/media/rick-characters.2de67b721abc49fc7f7a2e5ec151637d.svg",
+    "static/media/logo.svg": "/test/main/static/media/logo.5e606ba9fd593423c4bccdd6008a860a.svg",
+    "index.html": "/test/main/index.html",
+    "main.21979978.css.map": "/test/main/static/css/main.21979978.css.map",
+    "main.8878c4a5.js.map": "/test/main/static/js/main.8878c4a5.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd2f7cd8.css",
-    "static/js/main.a3cff69a.js"
+    "static/css/main.21979978.css",
+    "static/js/main.8878c4a5.js"
   ]
 }
